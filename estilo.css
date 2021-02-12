@@ -48,7 +48,7 @@ h2{
 #p4{
 	text-align: left;
 	margin-left: 330px;
-	margin-top: -900px;
+	margin-top: -600px;
 	width: 700px;
 	height: 700px;
 	font-size: 20px;
@@ -70,7 +70,7 @@ body{
 	margin-top: -10px;
 	margin-bottom: 50px;
 	width: 200px;
-	height: 825px;
+	height: 525px;
 	border-radius: 20px;
 	padding: 20px;
 	background-color:rgba(0, 128, 0, 0.651);
